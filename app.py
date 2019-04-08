@@ -12,6 +12,9 @@ Usage:
 
 	Open your browser. Go to http://127.0.0.1:5000/
 
+    Add your name as a user. Currently, any string will be accepted. If you are in the firebase UI, you will
+    see your name added to the DB.
+
 """
 
 # import necessary packages
